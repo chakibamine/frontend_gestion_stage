@@ -1,0 +1,12 @@
+.green-theme {
+    background-color: #4CAF50; /* Green */
+  }
+  
+  .green-theme .login100-form-btn {
+    background-color: #45a049;
+  }
+  
+  .green-theme .login100-form-btn:hover {
+    background-color: #4CAF50;
+  }
+  
